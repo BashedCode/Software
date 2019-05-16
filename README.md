@@ -15,3 +15,7 @@ Mouse without Borders
 SynergyNG
 
 WinDirStat
+
+
+OpenShot for video editing
+FFMpeg is wonderful.
