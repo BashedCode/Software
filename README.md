@@ -1,5 +1,5 @@
 # Software
-Software that I use on different systems\
+Software that I use on different systems
 
 7-Zip\
 putty\
@@ -8,15 +8,15 @@ Chrome\
 Brave\
 Developer plugins for windows\
 linux subsystem for Windows\
-f.lux - Not any more with Windows night light.\
+f.lux - Not any more with Windows night light.
 
 Mouse sharing\
 Mouse without Borders\
-SynergyNG\
+SynergyNG
 
 WinDirStat
 
 Home Systems\
 Plex\
 OpenShot for video editing\
-FFMpeg is wonderful\
+FFMpeg is wonderful
