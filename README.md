@@ -1,21 +1,22 @@
 # Software
-Software that I use on different systems
+Software that I use on different systems\
 
-7-Zip
-putty
-mRemoteNG
-Chrome
-Plex
-Developer plugins for windows
-linux subsystem for Windows
-f.lux
+7-Zip\
+putty\
+mRemoteNG\
+Chrome\
+Brave\
+Developer plugins for windows\
+linux subsystem for Windows\
+f.lux - Not any more with Windows night light.\
 
-Mouse sharing
-Mouse without Borders
-SynergyNG
+Mouse sharing\
+Mouse without Borders\
+SynergyNG\
 
 WinDirStat
 
-
-OpenShot for video editing
-FFMpeg is wonderful.
+Home Systems\
+Plex\
+OpenShot for video editing\
+FFMpeg is wonderful\
