@@ -20,3 +20,9 @@ Home Systems\
 Plex\
 OpenShot for video editing\
 FFMpeg is wonderful
+
+
+Mobile Apps\
+Apex - Flash cards\
+Castro - Podcasts\
+
